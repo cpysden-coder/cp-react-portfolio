@@ -11,7 +11,7 @@ import './components/Header.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import ProjectCard from './components/Portfolio';
 import {BrowserRouter as Router, Switch,Route,Link} from "react-router-dom"
-import Contact from "./pages/Contact";
+import Contact from "./components/Pages/Contact";
 import Pages from "./components/Pages"
 import './App.css';
 
