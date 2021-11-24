@@ -1,4 +1,17 @@
-.App {
+body {
+  background-color: rgb(197, 194, 194)
+}
+
+.card-header {
+  background-color: darkslategray;
+  color: white;
+  font-size: 2.0rem;
+}
+/* div {
+  border: solid red 1px;
+} */
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +48,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
